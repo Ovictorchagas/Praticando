@@ -1,0 +1,41 @@
+aluno,ingresso,sexo,idade,peso,altura,grupo_sanguineo,ingere_pao,ingere_massa,ingere_refri,ingere_alcool,fruta_gosta,n_refeicoes_dia
+1,2021/2,Masculino,23,70,174,O,Frequentemente,Frequentemente,Nunca,As vezes,Banana,4
+2,2025/1,Masculino,19,67,180,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Banana, Melancia, Pera",4
+3,2024/2,Feminino,21,60.8,159,A,Frequentemente,Frequentemente,As vezes,As vezes,Maçã,5
+4,2025/1,Masculino,19,65,174,O,Frequentemente,Frequentemente,As vezes,As vezes,"Maçã, Banana, Melancia, Pera, Manga",4
+5,2021/1,Masculino,23,91,182,O,As vezes,As vezes,Frequentemente,As vezes,"Maçã, Banana",3
+6,2025/1,Masculino,19,65,178,A,Frequentemente,Frequentemente,As vezes,As vezes,"Abacaxi, Banana",3
+7,2024/2,Masculino,18,71.5,175,A,Frequentemente,Frequentemente,Frequentemente,Nunca,"Maçã, Banana, Melancia, Pera",3
+8,2020 ou anos anteriores,Feminino,27,65,165,A,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana",4
+9,2025/1,Masculino,18,58,169,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Abacaxi, Banana",5
+10,2025/1,Masculino,19,67,177,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",5
+11,2025/1,Masculino,19,79,179,A,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana, Melancia, Pera, Manga",3
+12,2024/2,Feminino,22,50,160,O,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana, Melancia",5
+13,2025/1,Feminino,24,53,159,A,Frequentemente,As vezes,As vezes,As vezes,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",4
+14,2024/2,Masculino,27,93,177,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Abacaxi, Banana",2
+15,2024/2,Masculino,21,68.5,170,B,Frequentemente,Frequentemente,Frequentemente,As vezes,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",4
+16,2025/1,Masculino,19,60,169,AB,As vezes,Frequentemente,Frequentemente,As vezes,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",4
+17,2020 ou anos anteriores,Masculino,24,80,183,O,Frequentemente,Frequentemente,Nunca,As vezes,"Maçã, Abacaxi, Banana, Melancia, Manga",5
+18,2024/1,Masculino,20,120,182,O,Frequentemente,Nunca,As vezes,Frequentemente,"Maçã, Abacaxi, Banana, Melancia, Pera, Manga",3
+19,2025/1,Masculino,23,95,183,O,Frequentemente,As vezes,Frequentemente,As vezes,"Maçã, Abacaxi, Banana, Melancia, Kiwi, Manga, Nenhuma das frutas mencionadas",4
+20,2024/2,Masculino,22,93,178,A,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana, Melancia",2
+21,2021/2,Masculino,23,70,174,O,Frequentemente,Frequentemente,Nunca,As vezes,Banana,4
+22,2025/1,Masculino,19,67,180,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Banana, Melancia, Pera",4
+23,2024/2,Feminino,21,60.8,159,A,Frequentemente,Frequentemente,As vezes,As vezes,Maçã,5
+24,2025/1,Masculino,19,65,174,O,Frequentemente,Frequentemente,As vezes,As vezes,"Maçã, Banana, Melancia, Pera, Manga",4
+25,2021/1,Masculino,23,91,182,O,As vezes,As vezes,Frequentemente,As vezes,"Maçã, Banana",3
+26,2025/1,Masculino,19,65,178,A,Frequentemente,Frequentemente,As vezes,As vezes,"Abacaxi, Banana",3
+27,2024/2,Masculino,18,71.5,175,A,Frequentemente,Frequentemente,Frequentemente,Nunca,"Maçã, Banana, Melancia, Pera",3
+28,2020 ou anos anteriores,Feminino,27,65,165,A,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana",4
+29,2025/1,Masculino,18,58,169,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Abacaxi, Banana",5
+30,2025/1,Masculino,19,67,177,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",5
+31,2025/1,Masculino,19,79,179,A,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana, Melancia, Pera, Manga",3
+32,2024/2,Feminino,22,50,160,O,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana, Melancia",5
+33,2025/1,Feminino,24,53,159,A,Frequentemente,As vezes,As vezes,As vezes,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",4
+34,2024/2,Masculino,27,93,177,O,Frequentemente,Frequentemente,As vezes,Nunca,"Maçã, Abacaxi, Banana",2
+35,2024/2,Masculino,21,68.5,170,B,Frequentemente,Frequentemente,Frequentemente,As vezes,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",4
+36,2025/1,Masculino,19,60,169,AB,As vezes,Frequentemente,Frequentemente,As vezes,"Maçã, Abacaxi, Banana, Melancia, Pera, Kiwi, Manga",4
+37,2020 ou anos anteriores,Masculino,24,80,183,O,Frequentemente,Frequentemente,Nunca,As vezes,"Maçã, Abacaxi, Banana, Melancia, Manga",5
+38,2024/1,Masculino,20,120,182,O,Frequentemente,Nunca,As vezes,Frequentemente,"Maçã, Abacaxi, Banana, Melancia, Pera, Manga",3
+39,2025/1,Masculino,23,95,183,O,Frequentemente,As vezes,Frequentemente,As vezes,"Maçã, Abacaxi, Banana, Melancia, Kiwi, Manga, Nenhuma das frutas mencionadas",4
+40,2024/2,Masculino,22,93,178,A,Frequentemente,As vezes,As vezes,Nunca,"Maçã, Banana, Melancia",2
