@@ -9,3 +9,4 @@ prop.table(table(ingere_massa))
 prop.table(table(ingere_refri))
 prop.table(table(ingere_alcool))
 prop.table(table(fruta_gosta))
+qhrhnwqruj
