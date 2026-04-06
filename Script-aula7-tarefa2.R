@@ -22,3 +22,9 @@ barplot(table(dados$faixa_etaria, dados$sexo), beside = TRUE, legend
         = TRUE)
 hist(dados$altura)
 boxplot(dados$imc ~ dados$sexo)
+# 3. Medidas descritivas
+minimo_idade = min(dados$idade)
+maximo_idade = max(dados$idade)
+mediana_idade = median(dados$idade)
+media_idade = mean(dados$idade)
+desvio_idade = sd(dados$idade)
